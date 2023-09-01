@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lPXpTBkMYVGnXMNYZk5g5vZRCeAbXEX+pJIncwE+Fpc=",
+  "Source": "NWSLDBLMS.Web.Api",
+  "BasePath": "_content/NWSLDBLMS.Web.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

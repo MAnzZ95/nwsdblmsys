@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jXZnfATesqTQY8DoeVJdnrixvzZ2MvoP4TvHqRID1ju0IdssEMzY4dRb/IE+z+OPYfsSd1YJSAtxZDuAsX1t5A==",
+  "dgSpecHash": "bXOiWB+Tkc4y2NaQTHxvZ1oEfDVySUlb38DyWlVkHT3L4XEW8g3gdPhrjqONXfv6/T6Ai+ufdUTukcnKlaj/3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\supun\\OneDrive\\Documents\\MSC-Project\\NWSDBLMS\\Core\\Services\\NWSLDBLMS.Web.Api\\NWSLDBLMS.Web.Api.csproj",
+  "projectFilePath": "C:\\Users\\supun\\OneDrive\\Documents\\MSC-Project\\nwsdblmsys-git\\nwsdblmsys\\Core\\Services\\NWSLDBLMS.Web.Api\\NWSLDBLMS.Web.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\supun\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\supun\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
